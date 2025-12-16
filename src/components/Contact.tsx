@@ -26,12 +26,12 @@ const Contact = () => {
     {
       icon: MapPin,
       title: 'Office Address',
-      details: ['123 Travel Street, MG Road', 'Bangalore, Karnataka 560001'],
+      details: ['Vandigate', 'Chidambaram-608001'],
     },
     {
       icon: Phone,
       title: 'Phone Number',
-      details: ['+91 98765 43210', '+91 87654 32109'],
+      details: ['+91 7092889230'],
     },
     {
       icon: Mail,
